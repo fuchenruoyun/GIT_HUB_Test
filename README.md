@@ -2,5 +2,4 @@
 A Learn for Git Test
 you must trust me
 OK I trust you
-
-asdfas
+Creating a new branch is quick AND simple.
